@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "parkme",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}

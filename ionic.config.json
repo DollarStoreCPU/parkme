@@ -1,0 +1,7 @@
+{
+  "name": "parkme",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
